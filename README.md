@@ -1,4 +1,1 @@
-Simple script that filters a log based on user input.
-
-Searches for user's text, then outputs lines in given log that contain the search text.
-Adds those lines to a new, filtered log text file.
+Simple script that searches given log (in same directory) for user-provided text. Outputs each line that contain the search text, and adds them to a new text file.
